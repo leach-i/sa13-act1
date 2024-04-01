@@ -1,0 +1,44 @@
+body {
+    font-family: "Roboto", Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #6f1a00;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.category {
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #71321f;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #6f1a00;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
